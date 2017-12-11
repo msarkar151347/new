@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+#contain{
+	height: 680px;
+	width: 1040px;
+}
+
+#form_contain{
+	margin: auto;
+	width: 310px;
+	background-color: whitesmoke;
+}
+.comment_lbl{
+	font-size: 20px;
+	
+}
+.input_txt{
+	height: 20px;
+	width: 300px;
+}
+
+.comment_select{
+	height: 26px;
+	width: 150px;
+}
+
+.comment_tarea{
+	height: 100px;
+	width: 300px;
+}
+
+.comment_btn{
+	font-size: 18px;
+	height: 30px;
+	width: 100px;
+}

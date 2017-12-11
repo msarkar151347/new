@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menu ul{
+	text-align:center; 
+	padding:12px;}
+#menu ul li{
+	list-style:none;
+	display:inline;}
+#menu ul li a{
+	text-decoration:none; 
+	background:#066; 
+	color:#FFF;
+	padding:5px 10px; 
+	box-shadow:0px 5px 10px #fff; 
+	border-radius:10px 10px 10px 10px; 
+	font-size:18px; 
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	transition:all 1s;}
+	
+#menu ul li a:hover{
+	color:#FFF; 
+	background:#699; 
+	box-shadow:0px 5px 10px #81CF4B;
+	transition:all 1s;}
+
+/* Left Side Menu */
+
+#lift_contant ul{
+	text-align:center;}
+	
+#lift_contant ul li{
+	list-style:none;
+	 margin-top:1px;}
+	 
+#lift_contant ul li a{
+	padding:10px 15px 10px 15px; 
+	text-decoration:none; 
+	background:#066; 
+	color:#CCC; 
+	display:block;}
+	
+#lift_contant ul li a:hover{
+	background:#CCC; 
+	color:#066; 
+	font-size:18px;
+	font-style:oblique;}

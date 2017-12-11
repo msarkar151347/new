@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Content_right{
+	height: 100%;
+	width: 380px;
+	background-color: aqua;
+	float: right;
+}
+
+#Content_right_webLink{
+	height: 200px;
+	width: 100%;
+	background-color: blue;
+}
+
+#Content_right_comment{
+	height: 500px;
+	width: 100%;
+	background-color: beige;
+}
+
+#table_contain{
+	height: 100%;
+	width: 310px;
+	background-color: whitesmoke;
+	margin: auto;
+}
+
+.comment_lbl{
+	font-size: 20px;
+	
+}
+.input_txt{
+	height: 20px;
+	width: 300px;
+}
+
+.comment_select{
+	height: 26px;
+	width: 150px;
+}
+
+.comment_tarea{
+	height: 100px;
+	width: 300px;
+}
+
+.comment_btn{
+	font-size: 18px;
+	height: 30px;
+	width: 100px;
+}

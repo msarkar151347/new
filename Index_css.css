@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+table,ul,li,div,body,h1,h2,h3,h4,h5,h6{padding:0px; margin:0px;}
+
+#Wrapper{
+	height: auto;
+	width: 1080px;
+	margin: auto;
+}
+
+
+#Content{
+	height: 700px;
+	width: 1080px;
+	background-color: brown;
+}
+#Footer{
+	height: 100px;
+	width: 100%;
+	background-color: burlywood;
+}

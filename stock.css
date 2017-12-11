@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+#contain{
+	height: 680px;
+	width: 1040px;
+}
+
+#form_contain{
+	margin: auto;
+	width: 310px;
+	background-color: whitesmoke;
+}
+

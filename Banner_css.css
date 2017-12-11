@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+iframe,table,ul,li,div,body,h1,h2,h3,h4,h5,h6{padding:0px; margin:0px;}
+#Banner{
+	height: 200px;
+	width: 100%;
+	background-color: aquamarine;
+}
+
+.down_1px{
+	height: 1px;
+}
+
+#logo{
+	height: 180px;
+	width: 180px;
+	background-color: antiquewhite;
+	margin: 10px;
+	float: left;
+	clear: right;
+	background: url(logo.png);
+}
+
+#logo_right{
+	height: 100%;
+	width: 880px;
+	float: right;
+	background-color: cornflowerblue;
+}
+
+#login_button{
+	height: 50px;
+	width: 100%;
+	background-color: bisque;
+}
+
+#site_caption{
+	height: 150px;
+	width: 100%;
+	background-color: bisque;
+}
+
+h1{
+	text-shadow: 3px 3px 3px white;
+	font-size: 60px;
+}
+h2{
+	margin-left: 400px;
+	text-shadow: 3px 3px 3px white;
+}
+
+#login_button ul{
+	text-align:right; 
+	padding:12px;}
+#login_button ul li{
+	list-style:none;
+	display:inline;}
+#login_button ul li a{
+	text-decoration:none; 
+	background:#066; 
+	color:#FFF;
+	padding:5px 10px; 
+	box-shadow:0px 5px 10px #fff; 
+	border-radius:10px 10px 10px 10px; 
+	font-size:18px; 
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	transition:all 1s;}
+	
+#login_button ul li a:hover{
+	color:#FFF; 
+	background:#699; 
+	box-shadow:0px 5px 10px #81CF4B;
+	transition:all 1s;}

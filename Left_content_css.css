@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Content_left{
+	height: 100%;
+	width: 700px;
+	background-color: antiquewhite;
+	float: left;
+	clear: right;
+}
+
+.notice_contain_frame{
+	height: 220px;
+	width: 680px;
+	background-color: coral;
+	margin: 10px;
+}
+
+.notice_pic{
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+	float: left;
+	clear: right;
+	background-color: black;
+}
+
+.notice_detail{
+	height: 100%;
+	width: 460px;
+	background-color: aliceblue;
+	float: right;
+}
+
+.notice_caption{
+	height: 50px;
+	widows: 100%;
+	background-color: green;
+	
+}
+
+.notice_message{
+	height: 170px;
+	width: 100%;
+	background-color: aqua;
+}
+
